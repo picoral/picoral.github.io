@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Adriana Picoral",
+    "section": "",
+    "text": "I’m an assistant professor of practice in the computer science department, and an affiliated faculty member in the interdisciplinary graduate program of Second Language Acquisition and Teaching at the University of Arizona.\nI’m a certified Tidyverse Instructor.\n\nFor a list of university-level courses I have taught, check my teaching page\nI have held a number of data science workshops over the years\nResearch is not my main focus (teaching is), but I have published some"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2022-Fall 2024\n\n\nThis is an introduction to programming with an emphasis on solving problems drawn from a variety of domains. Topics include basic control and data structures, problem solving strategies, and software development tools and techniques. Specifically, the Python programming language will be taught.\n\nMaterials for CSC 110 Computer Programming I Fall 2024\n\n\n\n\nThe main goal of this course is to learn how to decompose problems and solve them with a program and do this in an effective manner that enables your future self and others to read, understand, and maintain your programs. Other goals include learning a second programming language (Java), learning decomposition and debugging strategies, and learning GUI event-driven programming (JavaFX).\n\nMaterials for CSC 210 Software Development Fall 2024\n\n\n\n\nThis course presents the fundamentals of data visualization, the art and science of using a computer to generate visual depictions of data. The course will present the foundations of graphic design, perceptual psychology and cognitive science, as well as the algorithmic basis for many for the visualization techniques. While statistical techniques may determine correlations among the data, visualization helps us frame what questions to ask.\n\nMaterials for CSC 444 Data Visualization Fall 2022\n\n\n\n\n\nFall 2020-Spring 2022\n\n\nThis course provides an introduction to the various skills and considerations required for data management and analysis in business, education, and science. Particular attention will be given to learning how to use the free and open-source computing environment R.\n\nESOC 214 Spring 2021\nESOC 214 Fall 2020\n\n\n\n\nThis course introduces students to the fundamental concepts and tools used to convey the information contained within large, complex data sets through a variety of visualization techniques. Students learn the fundamentals of data exploration data via visualizations, how to manipulate and reshape data to make it suitable for visualization, and how to prepare everything from simple single-variable visualizations to large multi-tiered and interactive visualizations. Visualization theory is presented alongside the technical aspect of the course to develop a holistic understanding of the topic.\n\n\n\nThis course provides an overview of the various concepts and skills required for effective data visualization. It presents principles of graphic design, programming skills, and statistical knowledge required to build compelling visualizations that communicate effectively to target audiences. Visualization skills addressed in this course include choosing appropriate colors, shapes, variable mappings, and interactivity based on principles of color perception, pre-attentive processing, and accessibility.\n\n\n\nThis course focuses on the use of modern data science methods to help learners make socially responsible decisions and mitigate harm that arises from issues like bias, discrimination, and threats to one’s personal privacy. More and more individuals are needing to make data-driven decisions in a wide variety of contexts including non-governmental organizations, not-for-profit industries, human services, environmental organizations, refugee camps, and more. Students in this class will thus learn about data science and how it can be utilized in contexts where socially-good decisions are desired and emphasized. This active learning class is designed for students who have an interest in the topic but who may have little to no previous experience with data science or programming."
+  },
+  {
+    "objectID": "teaching.html#computer-science-department",
+    "href": "teaching.html#computer-science-department",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2022-Fall 2024\n\n\nThis is an introduction to programming with an emphasis on solving problems drawn from a variety of domains. Topics include basic control and data structures, problem solving strategies, and software development tools and techniques. Specifically, the Python programming language will be taught.\n\nMaterials for CSC 110 Computer Programming I Fall 2024\n\n\n\n\nThe main goal of this course is to learn how to decompose problems and solve them with a program and do this in an effective manner that enables your future self and others to read, understand, and maintain your programs. Other goals include learning a second programming language (Java), learning decomposition and debugging strategies, and learning GUI event-driven programming (JavaFX).\n\nMaterials for CSC 210 Software Development Fall 2024\n\n\n\n\nThis course presents the fundamentals of data visualization, the art and science of using a computer to generate visual depictions of data. The course will present the foundations of graphic design, perceptual psychology and cognitive science, as well as the algorithmic basis for many for the visualization techniques. While statistical techniques may determine correlations among the data, visualization helps us frame what questions to ask.\n\nMaterials for CSC 444 Data Visualization Fall 2022"
+  },
+  {
+    "objectID": "teaching.html#school-of-information",
+    "href": "teaching.html#school-of-information",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2020-Spring 2022\n\n\nThis course provides an introduction to the various skills and considerations required for data management and analysis in business, education, and science. Particular attention will be given to learning how to use the free and open-source computing environment R.\n\nESOC 214 Spring 2021\nESOC 214 Fall 2020\n\n\n\n\nThis course introduces students to the fundamental concepts and tools used to convey the information contained within large, complex data sets through a variety of visualization techniques. Students learn the fundamentals of data exploration data via visualizations, how to manipulate and reshape data to make it suitable for visualization, and how to prepare everything from simple single-variable visualizations to large multi-tiered and interactive visualizations. Visualization theory is presented alongside the technical aspect of the course to develop a holistic understanding of the topic.\n\n\n\nThis course provides an overview of the various concepts and skills required for effective data visualization. It presents principles of graphic design, programming skills, and statistical knowledge required to build compelling visualizations that communicate effectively to target audiences. Visualization skills addressed in this course include choosing appropriate colors, shapes, variable mappings, and interactivity based on principles of color perception, pre-attentive processing, and accessibility.\n\n\n\nThis course focuses on the use of modern data science methods to help learners make socially responsible decisions and mitigate harm that arises from issues like bias, discrimination, and threats to one’s personal privacy. More and more individuals are needing to make data-driven decisions in a wide variety of contexts including non-governmental organizations, not-for-profit industries, human services, environmental organizations, refugee camps, and more. Students in this class will thus learn about data science and how it can be utilized in contexts where socially-good decisions are desired and emphasized. This active learning class is designed for students who have an interest in the topic but who may have little to no previous experience with data science or programming."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Materials\nTwo part workshop on building a quarto website for beginners."
+  },
+  {
+    "objectID": "workshops.html#reproducing-open-science-research",
+    "href": "workshops.html#reproducing-open-science-research",
+    "title": "Workshops",
+    "section": "Reproducing Open Science Research",
+    "text": "Reproducing Open Science Research\n\nSeptember 1, 2023: Reproducing Open Science Research 1\nSeptember 15, 2023: Reproducing Open Science Research 2\nOctober 6, 2023: Reproducing Open Science Research 3"
+  },
+  {
+    "objectID": "workshops.html#reading-and-checking-data-in-r",
+    "href": "workshops.html#reading-and-checking-data-in-r",
+    "title": "Workshops",
+    "section": "Reading and checking data in R",
+    "text": "Reading and checking data in R\nMaterials\nFor this tutorial on how to read data in R, we will be using the data available as complementary material for Tagliamonte’s (2011) Variationist Sociolinguistics: Change, Observation, Interpretation textbook."
+  },
+  {
+    "objectID": "workshops.html#building-interactive-interfaces-for-textual-data-exploration",
+    "href": "workshops.html#building-interactive-interfaces-for-textual-data-exploration",
+    "title": "Workshops",
+    "section": "Building Interactive Interfaces for Textual Data Exploration",
+    "text": "Building Interactive Interfaces for Textual Data Exploration\nMaterials\nIn this workshop, we work with the Shiny R package (Chang et al., 2020) to build a web-based interface (a.k.a. dashboard) with interactive filtering options and a regular expression search field to dynamically explore textual data. This was an invited workshop at the R-Ladies Athens meetup."
+  },
+  {
+    "objectID": "workshops.html#twitter-data-mining-in-r",
+    "href": "workshops.html#twitter-data-mining-in-r",
+    "title": "Workshops",
+    "section": "Twitter Data Mining in R",
+    "text": "Twitter Data Mining in R\nMaterials\nR-Ladies Tucson Workshop held on September 26, 2020. In this 2-hour workshop, we go over the steps to search tweets using the Twitter API, annotated them with Spacy, and doing some basic collocation analysis."
+  },
+  {
+    "objectID": "workshops.html#organizando-um-projeto-de-análise-de-dados-com-rstudio",
+    "href": "workshops.html#organizando-um-projeto-de-análise-de-dados-com-rstudio",
+    "title": "Workshops",
+    "section": "Organizando um projeto de análise de dados com RStudio",
+    "text": "Organizando um projeto de análise de dados com RStudio\nMaterials\nEsse material foi desenvolvido para o primeiro meetup (online) da R-Ladies de Ribeirão Preto (@RLadiesRP)."
+  },
+  {
+    "objectID": "workshops.html#corpus-data-scraping-and-sentiment-analysis",
+    "href": "workshops.html#corpus-data-scraping-and-sentiment-analysis",
+    "title": "Workshops",
+    "section": "Corpus Data Scraping and Sentiment Analysis",
+    "text": "Corpus Data Scraping and Sentiment Analysis\nMaterials\nIn this workshop, we scrape Amazon for reviews using the rvest R package to build a corpus of product reviews. We then do some sentiment analysis from a critical perspective."
+  },
+  {
+    "objectID": "workshops.html#corpus-searches-in-r",
+    "href": "workshops.html#corpus-searches-in-r",
+    "title": "Workshops",
+    "section": "Corpus Searches in R",
+    "text": "Corpus Searches in R\nMaterials\nIn this workshop, we work with a tagged corpus. We go over the steps of reading in a corpus (organized as multiple text files) in R, doing searches in the corpus using regular expressions, and producing concordance lines."
+  },
+  {
+    "objectID": "workshops.html#quantitative-language-data-analysis-and-visualization-in-r",
+    "href": "workshops.html#quantitative-language-data-analysis-and-visualization-in-r",
+    "title": "Workshops",
+    "section": "Quantitative Language Data Analysis and Visualization in R",
+    "text": "Quantitative Language Data Analysis and Visualization in R\nMaterials\nIn this workshop, we work with the Variable that data from Tagliamonte’s book “Variationist Sociolinguistics” (2012). We visualize means of that complementizer omission across speaker groups, and run both linear and logistic regression. Concepts such as correlation, interaction, and contrasts will be addressed."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Goulart, L., Staples, S., Novikov, A., Picoral, A., Reppen, R. (2024). An introduction to CIABATTA: Increasing accessibility to corpus creation for non-experts. Research Methods in Applied Linguistics, Volume 3, Issue 3.\nStaples, R., Picoral, A., Novikov, A., & Sommer-Farias, B. (2022). Directions for Future Use of Using Existing Corpora in the Study of L2 Writing. In R. Manchón & C. Polio (Eds.) Handbook of Second Language Acquisition and Writing. Routledge Handbooks in Second Language Acquisition and Teaching.\nPicoral, A., Staples, S., & Reppen, R. (2021). Automated annotation of learner English. International Journal of Learner Corpus Research, 7(1), p. 17 - 52\nGao, W., Picoral, A., & Staples, R. (2021). Citation Practices of L2 Writers in First-Year Writing Courses: Form, Rhetorical Function, and Connection with Pedagogical Materials. Applied Corpus Linguistics, 1(1).\nPicoral, A., Carvalho, A. (2020). The Acquisition of Preposition + Article Contractions in L3 Portuguese among Different L1-Speaking Learners: A Variationist Approach. Languages, 5 (4), 45-62.\nPicoral, A. (2020). L3 Portuguese by Spanish-English Bilinguals: Copula Construction Use and Acquisition in Corpus Data. Doctoral Thesis, University of Arizona.\nSommer-Farias, B., Carvalho, A., & Picoral, A. (2020). Portuguese Language Program Evaluation: Implementation, Results and Follow-up Strategies. Journal of the National Council of Less Commonly Taught Languages, 28, 1-50."
+  }
+]
