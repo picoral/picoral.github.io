@@ -18,7 +18,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "CSCI 1913 – Introduction to Algorithms, Data Structures, and Program Development\nAdvanced Object-Oriented programming to implement abstract data types (stacks, queues, lists, key-value stores) using various implementation strategies (array-backed, linked data structures, hash tables, binary trees) using the Java language. Searching/sorting algorithms. Basic algorithmic analysis. The Python scripting language. Substantial programming projects and Weekly labs."
+    "text": "Spring 2026\nFall 2025\n\nAdvanced Object-Oriented programming to implement abstract data types (stacks, queues, lists, key-value stores) using various implementation strategies (array-backed, linked data structures, hash tables, binary trees) using the Java language. Searching/sorting algorithms. Basic algorithmic analysis. The Python scripting language. Substantial programming projects and Weekly labs.\n\n\n\nAdvanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab."
   },
   {
     "objectID": "teaching.html#computer-science-department",
@@ -103,5 +103,19 @@
     "title": "Publications",
     "section": "",
     "text": "Google Scholar\nGoulart, L., Staples, S., Novikov, A., Picoral, A., Reppen, R. (2024). An introduction to CIABATTA: Increasing accessibility to corpus creation for non-experts. Research Methods in Applied Linguistics, Volume 3, Issue 3.\nStaples, R., Picoral, A., Novikov, A., & Sommer-Farias, B. (2022). Directions for Future Use of Using Existing Corpora in the Study of L2 Writing. In R. Manchón & C. Polio (Eds.) Handbook of Second Language Acquisition and Writing. Routledge Handbooks in Second Language Acquisition and Teaching.\nSommer-Farias, B., Novikov, A., Picoral, A., Centanin-Bertho, M, & Staples, S. (2022). A multilingual learner corpus for less commonly taught languages. International Journal of Learner Corpus Research, Volume 8, Issue 2, Dec 2022, p. 261 - 282.\nPicoral, A., Staples, S., & Reppen, R. (2021). Automated annotation of learner English. International Journal of Learner Corpus Research, 7(1), p. 17 - 52\nPicoral, A., Stumpf, E., Goulart, L., Calafate de Barros, L., Sommer-Farias, B., Laísa Matte, M., Carcamo Garcia, M., Centanin Bertho, M (2021). Parallels Between Spoken and CMC Language: Do Tweets Reflect Spoken Language Choices?. 8th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora.\nGao, W., Picoral, A., & Staples, R. (2021). Citation Practices of L2 Writers in First-Year Writing Courses: Form, Rhetorical Function, and Connection with Pedagogical Materials. Applied Corpus Linguistics, 1(1).\nPicoral, A., Carvalho, A. (2020). The Acquisition of Preposition + Article Contractions in L3 Portuguese among Different L1-Speaking Learners: A Variationist Approach. Languages, 5 (4), 45-62.\nPicoral, A. (2020). L3 Portuguese by Spanish-English Bilinguals: Copula Construction Use and Acquisition in Corpus Data. Doctoral Thesis, University of Arizona.\nSommer-Farias, B., Carvalho, A., & Picoral, A. (2020). Portuguese Language Program Evaluation: Implementation, Results and Follow-up Strategies. Journal of the National Council of Less Commonly Taught Languages, 28, 1-50."
+  },
+  {
+    "objectID": "teaching.html#csci-1913-introduction-to-algorithms-data-structures-and-program-development",
+    "href": "teaching.html#csci-1913-introduction-to-algorithms-data-structures-and-program-development",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2026\nFall 2025\n\nAdvanced Object-Oriented programming to implement abstract data types (stacks, queues, lists, key-value stores) using various implementation strategies (array-backed, linked data structures, hash tables, binary trees) using the Java language. Searching/sorting algorithms. Basic algorithmic analysis. The Python scripting language. Substantial programming projects and Weekly labs."
+  },
+  {
+    "objectID": "teaching.html#csci-1933---introduction-to-algorithms-and-data-structures",
+    "href": "teaching.html#csci-1933---introduction-to-algorithms-and-data-structures",
+    "title": "Teaching",
+    "section": "",
+    "text": "Advanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab."
   }
 ]
