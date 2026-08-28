@@ -18,7 +18,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Spring 2026\nFall 2025\n\nAdvanced Object-Oriented programming to implement abstract data types (stacks, queues, lists, key-value stores) using various implementation strategies (array-backed, linked data structures, hash tables, binary trees) using the Java language. Searching/sorting algorithms. Basic algorithmic analysis. The Python scripting language. Substantial programming projects and Weekly labs.\n\n\n\nAdvanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab."
+    "text": "Fall 2026\n\nImpact of computers on society. Computer science perspective of ethical, legal, social, philosophical, political, and economic aspects of computing.\n\n\n\n\nFall 2026\nSpring 2026\nFall 2025\n\nAdvanced Object-Oriented programming to implement abstract data types (stacks, queues, lists, key-value stores) using various implementation strategies (array-backed, linked data structures, hash tables, binary trees) using the Java language. Searching/sorting algorithms. Basic algorithmic analysis. The Python scripting language. Substantial programming projects and Weekly labs.\n\n\n\n\nSpring 2026\n\nAdvanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab."
   },
   {
     "objectID": "teaching.html#computer-science-department",
@@ -109,13 +109,27 @@
     "href": "teaching.html#csci-1913-introduction-to-algorithms-data-structures-and-program-development",
     "title": "Teaching",
     "section": "",
-    "text": "Spring 2026\nFall 2025\n\nAdvanced Object-Oriented programming to implement abstract data types (stacks, queues, lists, key-value stores) using various implementation strategies (array-backed, linked data structures, hash tables, binary trees) using the Java language. Searching/sorting algorithms. Basic algorithmic analysis. The Python scripting language. Substantial programming projects and Weekly labs."
+    "text": "Fall 2026\nSpring 2026\nFall 2025\n\nAdvanced Object-Oriented programming to implement abstract data types (stacks, queues, lists, key-value stores) using various implementation strategies (array-backed, linked data structures, hash tables, binary trees) using the Java language. Searching/sorting algorithms. Basic algorithmic analysis. The Python scripting language. Substantial programming projects and Weekly labs."
   },
   {
     "objectID": "teaching.html#csci-1933---introduction-to-algorithms-and-data-structures",
     "href": "teaching.html#csci-1933---introduction-to-algorithms-and-data-structures",
     "title": "Teaching",
     "section": "",
-    "text": "Advanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab."
+    "text": "Spring 2026\n\nAdvanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab."
+  },
+  {
+    "objectID": "teaching.html#csci-3921w-social-legal-and-ethical-issues-in-computing-3-cr.-civic-life-and-ethics-writing-intensive",
+    "href": "teaching.html#csci-3921w-social-legal-and-ethical-issues-in-computing-3-cr.-civic-life-and-ethics-writing-intensive",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2026\n\nImpact of computers on society. Computer science perspective of ethical, legal, social, philosophical, political, and economic aspects of computing."
+  },
+  {
+    "objectID": "teaching.html#csci-3921w-social-legal-and-ethical-issues-in-computing",
+    "href": "teaching.html#csci-3921w-social-legal-and-ethical-issues-in-computing",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2026\n\nImpact of computers on society. Computer science perspective of ethical, legal, social, philosophical, political, and economic aspects of computing."
   }
 ]
